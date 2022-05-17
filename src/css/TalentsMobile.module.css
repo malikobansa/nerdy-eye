@@ -1,0 +1,1818 @@
+.subFooterIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.allRightsReservedNerdyEye {
+  position: absolute;
+  height: 73.17%;
+  width: 88%;
+  top: 14.63%;
+  right: 5.33%;
+  bottom: 12.2%;
+  left: 6.67%;
+  font-weight: 300;
+  display: inline-block;
+}
+.footerIcon,
+.subFooterDiv {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.subFooterDiv {
+  height: 3.66%;
+  top: 96.34%;
+  bottom: 0;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+}
+.footerIcon {
+  height: 96.34%;
+  top: 0;
+  bottom: 3.66%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.sOCIALMEDIAB {
+  position: absolute;
+  height: 3.12%;
+  width: 58.67%;
+  top: 88.04%;
+  right: 36%;
+  bottom: 8.84%;
+  left: 5.33%;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: capitalize;
+  display: inline-block;
+  color: #575757;
+}
+.careersP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.termsP {
+  margin: 0;
+}
+.careersSiteMapPrivacyTerms {
+  position: absolute;
+  height: 38.46%;
+  width: 92.37%;
+  top: 61.54%;
+  right: 7.63%;
+  bottom: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.oTHERLINKSB {
+  height: 16.87%;
+  width: 100%;
+  top: 47.12%;
+  right: 0;
+  bottom: 36.02%;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: capitalize;
+  color: #575757;
+}
+.aboutWorkforceContact,
+.cOMPANYB,
+.oTHERLINKSB {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.aboutWorkforceContact {
+  height: 30.29%;
+  width: 62.35%;
+  top: 16.83%;
+  right: 37.65%;
+  bottom: 52.88%;
+  font-weight: 300;
+}
+.cOMPANYB {
+  height: 16.87%;
+  width: 77.27%;
+  top: 0;
+  right: 22.73%;
+  bottom: 83.13%;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: capitalize;
+  color: #575757;
+}
+.row2Div {
+  position: absolute;
+  height: 18.55%;
+  width: 34.64%;
+  top: 69.48%;
+  right: 60.03%;
+  bottom: 11.96%;
+  left: 5.33%;
+}
+.cOURSESB,
+.digitalMarketingTrainingGra {
+  position: absolute;
+  left: 5.33%;
+  display: inline-block;
+}
+.digitalMarketingTrainingGra {
+  height: 13.65%;
+  width: 84.8%;
+  top: 53.07%;
+  right: 9.87%;
+  bottom: 33.28%;
+  font-weight: 300;
+}
+.cOURSESB {
+  height: 1.78%;
+  width: 43.73%;
+  top: 49.19%;
+  right: 50.93%;
+  bottom: 49.03%;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: capitalize;
+  color: #575757;
+}
+.sERVICESB,
+.websiteDesignDevelopmentMob {
+  position: absolute;
+  left: 5.87%;
+  display: inline-block;
+}
+.websiteDesignDevelopmentMob {
+  height: 9.1%;
+  width: 56%;
+  top: 35.68%;
+  right: 38.13%;
+  bottom: 55.22%;
+  font-weight: 300;
+}
+.sERVICESB {
+  height: 1.78%;
+  width: 38.4%;
+  top: 31.72%;
+  right: 55.73%;
+  bottom: 66.5%;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: capitalize;
+  color: #575757;
+}
+.phoneAltSolidIcon {
+  position: absolute;
+  height: 7%;
+  width: 4.8%;
+  top: 93%;
+  right: 95.2%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.div,
+.infonerdyeyecomDiv {
+  position: absolute;
+  height: 7.44%;
+  width: 37.84%;
+  top: 92.13%;
+  right: 52.55%;
+  bottom: 0.44%;
+  left: 9.61%;
+  font-weight: 300;
+  display: inline-block;
+}
+.infonerdyeyecomDiv {
+  width: 41.44%;
+  top: 75.07%;
+  right: 51.35%;
+  bottom: 17.5%;
+  left: 7.21%;
+}
+.envelopeRegularIcon,
+.mapMarkerAltSolidIcon {
+  position: absolute;
+  height: 5.25%;
+  width: 4.8%;
+  top: 76.82%;
+  right: 95.2%;
+  bottom: 17.94%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.mapMarkerAltSolidIcon {
+  height: 7%;
+  width: 3.6%;
+  top: 56.69%;
+  right: 96.4%;
+  bottom: 36.31%;
+}
+.isholaAlagomejiOffHerbert,
+.weBuildAndWeTeachTechAnd {
+  position: absolute;
+  height: 14.87%;
+  width: 93.39%;
+  top: 55.12%;
+  right: 0;
+  bottom: 30.01%;
+  left: 6.61%;
+  font-weight: 300;
+  display: inline-block;
+}
+.weBuildAndWeTeachTechAnd {
+  height: 6.56%;
+  width: 86.79%;
+  top: 36.13%;
+  right: 13.21%;
+  bottom: 57.31%;
+  left: 0;
+  font-size: 12px;
+}
+.logoIcon {
+  position: absolute;
+  height: 24.05%;
+  width: 30.02%;
+  top: 0;
+  right: 69.98%;
+  bottom: 75.95%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.col1Div {
+  position: absolute;
+  height: 20.39%;
+  width: 88.8%;
+  top: 4.46%;
+  right: 5.33%;
+  bottom: 75.15%;
+  left: 5.87%;
+}
+.footerMobileDiv {
+  position: absolute;
+  bottom: -0.12px;
+  left: 0;
+  width: 375px;
+  height: 1179.12px;
+  text-align: left;
+  color: #7e7777;
+}
+.sharePostDiv {
+  position: absolute;
+  top: 1143px;
+  right: -613px;
+  font-size: 12px;
+  line-height: 130%;
+  font-weight: 500;
+  color: #000;
+  text-align: right;
+  display: inline-block;
+}
+.shareIcon {
+  position: absolute;
+  top: 1141px;
+  right: -645px;
+  width: 20px;
+  height: 20px;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  position: absolute;
+  top: 1877.78px;
+  left: 99.27px;
+  width: 176.1px;
+  height: 33.37px;
+  opacity: 0.5;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  top: 6167.83px;
+  left: 98.27px;
+}
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  top: 7461.88px;
+  left: 104.33px;
+}
+.vectorIcon3,
+.vectorIcon4 {
+  top: 6750.86px;
+  left: 84.33px;
+}
+.vectorIcon4 {
+  top: 2534.81px;
+  left: 104.33px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8f8f8;
+  width: 375px;
+  height: 1000px;
+}
+.hOWITWORKS,
+.titleGoesHere {
+  position: absolute;
+  display: inline-block;
+}
+.hOWITWORKS {
+  top: 0;
+  left: 14px;
+  font-size: 32px;
+  text-transform: uppercase;
+}
+.titleGoesHere {
+  top: 124.49px;
+  left: 34px;
+  width: 228.69px;
+  height: 29.91px;
+}
+.groupIcon {
+  top: 0;
+  left: 0;
+  width: 98.39px;
+  height: 98.39px;
+  opacity: 0.5;
+}
+.b,
+.groupDiv2,
+.groupIcon {
+  position: absolute;
+}
+.b {
+  top: 30px;
+  left: 29px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 41px;
+  height: 39px;
+}
+.groupDiv2 {
+  top: 0;
+  left: 99px;
+  width: 98.39px;
+  height: 98.39px;
+  font-size: 32px;
+  color: #575757;
+}
+.loremIpsumDolorSitAmetCo {
+  position: absolute;
+  top: 164px;
+  left: 0;
+  font-size: 14px;
+  line-height: 130%;
+  font-weight: 500;
+  display: inline-block;
+  width: 297px;
+  height: 63px;
+}
+.groupDiv,
+.groupDiv1,
+.groupDiv3,
+.groupDiv5,
+.howItWorks {
+  position: absolute;
+  top: 81px;
+  left: 0;
+  width: 297px;
+  height: 227px;
+}
+.groupDiv,
+.groupDiv3,
+.groupDiv5,
+.howItWorks {
+  top: 378px;
+}
+.groupDiv,
+.groupDiv5,
+.howItWorks {
+  top: 675px;
+}
+.groupDiv,
+.howItWorks {
+  top: 53.03px;
+  left: 40px;
+  height: 902px;
+}
+.howItWorks {
+  top: 851px;
+  left: 0;
+  width: 375px;
+  height: 1000px;
+  font-size: 16px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+  width: 335px;
+  height: 473px;
+}
+.nERDYEYETALENTPIPELINE {
+  margin: 0;
+  color: #d23431;
+}
+.wHYJOINTHENERDYEYETALENTP {
+  position: absolute;
+  top: 25px;
+  left: 2px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 333px;
+}
+.groupIcon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.longTermPlacementsDiv {
+  position: absolute;
+  top: 6px;
+  left: 49px;
+  line-height: 130%;
+  font-weight: 500;
+  display: inline-block;
+  width: 195px;
+}
+.groupDiv8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 244px;
+  height: 32px;
+}
+.groupDiv10,
+.groupDiv11,
+.groupDiv12,
+.groupDiv7,
+.groupDiv9 {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 244px;
+  height: 32px;
+}
+.groupDiv10,
+.groupDiv11,
+.groupDiv12,
+.groupDiv7 {
+  top: 120px;
+}
+.groupDiv11,
+.groupDiv12,
+.groupDiv7 {
+  top: 180px;
+}
+.groupDiv12,
+.groupDiv7 {
+  top: 240px;
+}
+.groupDiv7 {
+  top: 173.1px;
+  left: 58px;
+  height: 272px;
+  text-align: left;
+  font-size: 14px;
+}
+.whyJoinPipeline {
+  position: absolute;
+  top: 6241px;
+  left: 20px;
+  width: 335px;
+  height: 473px;
+  font-size: 32px;
+}
+.buttonText {
+  position: relative;
+  display: inline-block;
+}
+.buttonsDiv {
+  position: absolute;
+  top: 725.15px;
+  left: 10px;
+  border-radius: 5px;
+  background-color: #d23432;
+  display: flex;
+  flex-direction: row;
+  padding: 19px 26px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: #fff;
+}
+.labelDiv1 {
+  position: relative;
+  line-height: 130%;
+  font-weight: 500;
+  display: inline-block;
+}
+.labelDiv {
+  position: absolute;
+  top: calc(50% - 10px - 0.33px);
+  left: 20px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.textInputDarkTheme {
+  position: absolute;
+  height: 66.67%;
+  width: 100%;
+  top: 33.33%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  overflow: hidden;
+}
+.span {
+  color: #d23431;
+}
+.textDescriptionB {
+  position: absolute;
+  height: 16.53%;
+  width: 14.71%;
+  top: 3.31%;
+  right: 84.98%;
+  bottom: 80.17%;
+  left: 0.31%;
+  font-size: 16px;
+  display: inline-block;
+}
+.inputsDiv {
+  position: absolute;
+  top: 212.15px;
+  left: 10px;
+  width: 333px;
+  height: 121px;
+  text-align: left;
+}
+.textDescriptionB1 {
+  position: absolute;
+  height: 16.53%;
+  width: 52.85%;
+  top: 3.31%;
+  right: 46.84%;
+  bottom: 80.17%;
+  left: 0.31%;
+  font-size: 16px;
+  display: inline-block;
+}
+.inputsDiv1 {
+  position: absolute;
+  top: 383.15px;
+  left: 10px;
+  width: 333px;
+  height: 121px;
+  text-align: left;
+}
+.textDescriptionB2 {
+  position: absolute;
+  height: 16.53%;
+  width: 30.03%;
+  top: 3.31%;
+  right: 69.66%;
+  bottom: 80.17%;
+  left: 0.31%;
+  font-size: 16px;
+  display: inline-block;
+}
+.inputsDiv2 {
+  position: absolute;
+  top: 554.15px;
+  left: 10px;
+  width: 333px;
+  height: 121px;
+  text-align: left;
+}
+.jOINTHENERDYEYENETWORK {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 32px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 352px;
+  color: #222;
+}
+.thankYouForShowingInterest {
+  position: absolute;
+  top: 98.15px;
+  left: 10px;
+  font-size: 12px;
+  line-height: 130%;
+  font-weight: 500;
+  display: inline-block;
+  width: 333px;
+  height: 52px;
+}
+.groupDiv13 {
+  position: absolute;
+  top: 7567px;
+  left: 12px;
+  width: 352px;
+  height: 783.15px;
+  color: #575757;
+}
+.groupIcon8 {
+  position: absolute;
+  top: 2447px;
+  left: 139px;
+  width: 97px;
+  height: 15px;
+}
+.successStoriesB {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  font-size: 32px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: left;
+}
+.loremIpsumDolorSitAmetCo3 {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  font-size: 14px;
+  line-height: 130%;
+  font-weight: 500;
+  display: inline-block;
+  width: 360px;
+}
+.groupIcon9,
+.rectangleDiv2 {
+  position: absolute;
+  top: 458.88px;
+  left: 131px;
+  width: 97px;
+  height: 15px;
+}
+.rectangleDiv2 {
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  width: 295px;
+  height: 268px;
+}
+.loremIpsumDolorSitAmetCo4 {
+  position: absolute;
+  top: 175.59px;
+  left: 16.76px;
+  line-height: 130%;
+  font-weight: 500;
+  display: inline-block;
+  width: 261.18px;
+  height: 69.71px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 33.53px;
+  left: 107.65px;
+  width: 79.41px;
+  height: 80.29px;
+  object-fit: cover;
+}
+.johnDoeB {
+  position: absolute;
+  top: 134px;
+  left: 93px;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: capitalize;
+  display: flex;
+  color: #d23431;
+  align-items: center;
+  justify-content: center;
+  width: 108px;
+  height: 20px;
+}
+.testimonialDiv {
+  position: absolute;
+  top: 160.88px;
+  left: 32px;
+  width: 295px;
+  height: 268px;
+  color: #575757;
+}
+.ellipseIcon1,
+.testimonial2Div {
+  position: absolute;
+  top: 7089.53px;
+  left: 457.65px;
+  width: 79.41px;
+  height: 80.29px;
+}
+.testimonial2Div {
+  top: 160.88px;
+  left: 342px;
+  width: 295px;
+  height: 268px;
+  color: #575757;
+}
+.successStoriesDiv {
+  position: absolute;
+  top: 6895.13px;
+  left: 8px;
+  width: 637px;
+  height: 473.88px;
+  font-size: 12px;
+}
+.loremIpsumDolorSitAmetCo6,
+.wHOSHOULDJOINTHENERDYEYEP {
+  position: absolute;
+  left: 233px;
+  text-align: center;
+  display: inline-block;
+}
+.wHOSHOULDJOINTHENERDYEYEP {
+  top: 0;
+  font-size: 32px;
+  text-transform: uppercase;
+  width: 333px;
+}
+.loremIpsumDolorSitAmetCo6 {
+  top: 137px;
+  font-size: 12px;
+  line-height: 130%;
+  font-weight: 500;
+  width: 332px;
+  height: 51px;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 0;
+  left: 256px;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  width: 256px;
+  height: 228.6px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.talentsDiv,
+.uIUXDesignB {
+  position: absolute;
+  left: 31.31px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  width: 191.02px;
+}
+.uIUXDesignB {
+  top: 144.83px;
+  text-transform: uppercase;
+  height: 26.62px;
+}
+.talentsDiv {
+  top: 179.28px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #d23431;
+  height: 18.01px;
+}
+.ellipseIcon2 {
+  position: absolute;
+  top: 31.31px;
+  left: 211px;
+  width: 69.68px;
+  height: 69.68px;
+}
+.ellipseIcon3,
+.groupDiv14 {
+  position: absolute;
+  top: 226px;
+  left: 0;
+  width: 256px;
+  height: 228.6px;
+}
+.ellipseIcon3 {
+  top: 2207.31px;
+  left: 486.01px;
+  width: 69.68px;
+  height: 69.68px;
+}
+.groupDiv15,
+.rectangleDiv6 {
+  position: absolute;
+  top: 226px;
+  left: 542px;
+  width: 256px;
+  height: 228.6px;
+}
+.rectangleDiv6 {
+  top: 0;
+  left: 256px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 37px 90px 6px rgba(87, 87, 87, 0.12);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.cimobileAltIcon {
+  position: absolute;
+  top: 39px;
+  left: 172px;
+  width: 62px;
+  height: 62px;
+  overflow: hidden;
+}
+.groupDiv16,
+.whoShouldJoin {
+  position: absolute;
+  top: 226px;
+  left: 271px;
+  width: 256px;
+  height: 228.6px;
+}
+.whoShouldJoin {
+  top: 1950px;
+  left: -211px;
+  width: 798px;
+  height: 454.6px;
+  text-align: left;
+  font-size: 18px;
+}
+.ellipseIcon4,
+.ellipseIcon5 {
+  position: absolute;
+  top: 515px;
+  left: 35px;
+  width: 162px;
+  height: 162px;
+}
+.ellipseIcon5 {
+  top: 286px;
+  left: 291px;
+}
+.gETMATCHEDLETYOURJOBFIN {
+  position: absolute;
+  top: 0;
+  left: 56px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 335px;
+  height: 68px;
+}
+.loremIpsumDolorSitAmetCo7 {
+  position: absolute;
+  top: 91px;
+  left: 55px;
+  font-size: 12px;
+  line-height: 130%;
+  font-weight: 500;
+  color: #575757;
+  display: inline-block;
+  width: 336px;
+  height: 58px;
+}
+.buttonsDiv1 {
+  position: absolute;
+  top: 149px;
+  left: 153px;
+  border-radius: 5px;
+  background-color: #d23432;
+  display: flex;
+  flex-direction: row;
+  padding: 19px 26px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: #fff;
+}
+.recruitersDiv {
+  position: absolute;
+  top: 46px;
+  left: 1px;
+  line-height: 130%;
+  font-weight: 500;
+  display: inline-block;
+}
+.b3,
+.groupDiv17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.b3 {
+  font-size: 32px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: left;
+  color: #000;
+}
+.groupDiv17 {
+  width: 74px;
+  height: 64px;
+}
+.b4,
+.talentsDiv2 {
+  position: absolute;
+  display: inline-block;
+}
+.talentsDiv2 {
+  top: 46px;
+  left: 0;
+  line-height: 130%;
+  font-weight: 500;
+}
+.b4 {
+  top: 0;
+  left: 1px;
+  font-size: 32px;
+  text-transform: uppercase;
+  text-align: left;
+  color: #000;
+}
+.groupDiv18,
+.reputationDiv {
+  position: absolute;
+  top: 0;
+  left: 138px;
+  width: 84px;
+  height: 64px;
+}
+.reputationDiv {
+  top: 230px;
+  left: 113px;
+  width: 222px;
+  font-size: 14px;
+  color: #3c3a3a;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 331px;
+  left: 107px;
+  border-radius: 10px;
+  width: 232px;
+  height: 305px;
+  object-fit: cover;
+}
+.heroDiv {
+  position: absolute;
+  top: 164px;
+  left: -35px;
+  width: 453px;
+  height: 677px;
+  font-size: 28px;
+  color: #222;
+}
+.rectangleDiv7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8f8f8;
+  width: 375px;
+  height: 2295px;
+}
+.iNDUSTRIESWEHIREFOR,
+.loremIpsumDolorSitAmetCo8 {
+  position: absolute;
+  color: #3c3a3a;
+  text-align: center;
+  display: inline-block;
+}
+.iNDUSTRIESWEHIREFOR {
+  top: 33px;
+  left: 56px;
+  font-size: 32px;
+  text-transform: uppercase;
+  width: 264px;
+}
+.loremIpsumDolorSitAmetCo8 {
+  top: 141px;
+  left: 22px;
+  line-height: 130%;
+  font-weight: 500;
+  width: 332px;
+  height: 51px;
+}
+.rectangleDiv8,
+.rectangleIcon1 {
+  position: absolute;
+  top: 0;
+  border-radius: 15px;
+  width: 297px;
+  height: 297px;
+}
+.rectangleIcon1 {
+  left: 0;
+  object-fit: cover;
+}
+.rectangleDiv8 {
+  left: 297px;
+  background: linear-gradient(180deg, rgba(7, 7, 7, 0), #020202);
+  box-shadow: 0 11px 90px 6px #e8e6e6;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.loremIpsumDolorSitAmetCo9,
+.mediaB {
+  position: absolute;
+  display: inline-block;
+}
+.loremIpsumDolorSitAmetCo9 {
+  top: 218px;
+  left: 26px;
+  line-height: 130%;
+  font-weight: 500;
+  width: 255px;
+  height: 47px;
+}
+.mediaB {
+  top: 181.12px;
+  left: 29.12px;
+  font-size: 16px;
+  width: 74.25px;
+  height: 27.97px;
+}
+.mediaDiv {
+  position: absolute;
+  top: 1269px;
+  left: 39px;
+  width: 297px;
+  height: 297px;
+}
+.rectangleDiv9,
+.rectangleIcon2 {
+  position: absolute;
+  border-radius: 15px;
+  width: 297px;
+  height: 289px;
+}
+.rectangleIcon2 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.rectangleDiv9 {
+  top: 8.01px;
+  left: 297px;
+  background: linear-gradient(180deg, rgba(7, 7, 7, 0), #020202);
+  box-shadow: 0 11px 90px 6px #e8e6e6;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.healthcareB,
+.loremIpsumDolorSitAmetCo10 {
+  position: absolute;
+  left: 26px;
+  display: inline-block;
+}
+.loremIpsumDolorSitAmetCo10 {
+  top: 214px;
+  line-height: 130%;
+  font-weight: 500;
+  width: 255px;
+  height: 47px;
+}
+.healthcareB {
+  top: 176.76px;
+  font-size: 16px;
+  width: 125.93px;
+  height: 27.22px;
+}
+.healthcareDiv,
+.hospitalityB {
+  position: absolute;
+  top: 1943px;
+  left: 39px;
+  width: 297px;
+  height: 297px;
+}
+.hospitalityB {
+  top: 176.12px;
+  left: 29.12px;
+  font-size: 16px;
+  display: inline-block;
+  width: 141.95px;
+  height: 27.97px;
+}
+.hospitalityDiv {
+  position: absolute;
+  top: 1606px;
+  left: 39px;
+  width: 297px;
+  height: 297px;
+}
+.fintechB,
+.loremIpsumDolorSitAmetCo12 {
+  position: absolute;
+  left: 26px;
+  display: inline-block;
+}
+.loremIpsumDolorSitAmetCo12 {
+  top: 222px;
+  line-height: 130%;
+  font-weight: 500;
+  width: 255px;
+  height: 47px;
+}
+.fintechB {
+  top: 184px;
+  font-size: 16px;
+  width: 122.29px;
+  height: 27.97px;
+}
+.fintechDiv,
+.rectangleIcon5 {
+  position: absolute;
+  top: 595px;
+  left: 39px;
+  width: 297px;
+  height: 297px;
+}
+.rectangleIcon5 {
+  top: -13px;
+  left: -39px;
+  border-radius: 15px;
+  width: 375px;
+  height: 397px;
+  object-fit: cover;
+}
+.logisticsTransportation,
+.loremIpsumDolorSitAmetCo13 {
+  position: absolute;
+  top: 153.27px;
+  left: 26px;
+  display: inline-block;
+  width: 161.17px;
+  height: 49.87px;
+}
+.loremIpsumDolorSitAmetCo13 {
+  top: 214px;
+  font-size: 12px;
+  line-height: 130%;
+  font-weight: 500;
+  width: 255px;
+  height: 47px;
+}
+.logisticsDiv {
+  position: absolute;
+  top: 258px;
+  left: 39px;
+  width: 297px;
+  height: 297px;
+  font-size: 16px;
+}
+.loremIpsumDolorSitAmetCo14 {
+  position: absolute;
+  top: 215px;
+  left: 26px;
+  line-height: 130%;
+  font-weight: 500;
+  display: inline-block;
+  width: 255px;
+  height: 47px;
+}
+.eCommerceB {
+  position: absolute;
+  top: 177.12px;
+  left: 29.12px;
+  font-size: 16px;
+  display: inline-block;
+  width: 149.23px;
+  height: 27.97px;
+}
+.ecommerceDiv,
+.industriesDiv {
+  position: absolute;
+  top: 932px;
+  left: 39px;
+  width: 297px;
+  height: 297px;
+}
+.industriesDiv {
+  top: 3808px;
+  left: 0;
+  width: 375px;
+  height: 2295px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+}
+.buttonsDiv2 {
+  position: absolute;
+  top: 1103.08px;
+  left: 91px;
+  border-radius: 5px;
+  border: 1px solid #d23432;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: 19px 26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 16px;
+  color: #d23432;
+}
+.oFFERSSpan {
+  color: #222;
+}
+.jOBOFFERS {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  font-size: 32px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+  color: #d23431;
+}
+.vectorIcon5 {
+  position: absolute;
+  top: 0;
+  left: 151.5px;
+  width: 1px;
+  height: 86px;
+}
+.span5 {
+  color: #d23432;
+}
+.div1,
+.div2 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+}
+.div2 {
+  left: 186px;
+}
+.jobOffersDiv1,
+.startupsDiv {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  font-size: 14px;
+  line-height: 130%;
+  font-weight: 500;
+  color: #222;
+  display: flex;
+  align-items: center;
+  width: 125px;
+}
+.startupsDiv {
+  left: 186px;
+}
+.groupDiv19,
+.groupDiv20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 311px;
+  height: 86px;
+}
+.groupDiv19 {
+  top: 70.08px;
+  font-size: 48px;
+  color: #3c3a3a;
+}
+.rectangleDiv14 {
+  position: absolute;
+  top: 0;
+  left: 277.3px;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 37px 90px 6px rgba(87, 87, 87, 0.12);
+  width: 277.3px;
+  height: 247.62px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.vectorIcon6 {
+  position: absolute;
+  top: 173.76px;
+  left: 1.7px;
+  max-height: 100%;
+  width: 273.48px;
+}
+.fullTimeDiv {
+  top: 124.62px;
+  left: 120px;
+  line-height: 130%;
+  font-weight: 500;
+  color: #d23431;
+  width: 78px;
+  height: 15px;
+}
+.frontEndDeveloperB,
+.fullTimeDiv,
+.lagosB,
+.webDevelopmentDiv {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.frontEndDeveloperB {
+  top: 76.32px;
+  left: 25.44px;
+  font-size: 16px;
+  color: #3c3a3a;
+  width: 225.57px;
+  height: 24.59px;
+}
+.lagosB,
+.webDevelopmentDiv {
+  line-height: 130%;
+}
+.webDevelopmentDiv {
+  top: 33.07px;
+  left: 61.06px;
+  font-size: 12px;
+  font-weight: 500;
+  width: 144.16px;
+  height: 16.96px;
+}
+.lagosB {
+  top: 0.85px;
+  left: 22.81px;
+  width: 58.51px;
+  height: 15.26px;
+}
+.groupDiv22,
+.mapPinIcon {
+  position: absolute;
+  height: 16.96px;
+}
+.mapPinIcon {
+  top: 0;
+  left: 0;
+  width: 16.96px;
+  overflow: hidden;
+}
+.groupDiv22 {
+  top: 122.96px;
+  left: 22.98px;
+  width: 81.32px;
+}
+.amazonDiv,
+.bxcodeAltIcon {
+  position: absolute;
+  left: 25.44px;
+}
+.amazonDiv {
+  top: 199.28px;
+  font-size: 16px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 58.51px;
+  height: 16.96px;
+}
+.bxcodeAltIcon {
+  top: 27.14px;
+  width: 28.83px;
+  height: 28.83px;
+  overflow: hidden;
+}
+.pngTransparentLogoAmazonCoIcon {
+  position: absolute;
+  top: 185.71px;
+  left: 175.54px;
+  width: 75.47px;
+  height: 43.25px;
+  object-fit: cover;
+}
+.groupDiv21 {
+  position: absolute;
+  top: 499.38px;
+  left: 17px;
+  width: 277.3px;
+  height: 247.62px;
+}
+.fullTimeDiv1 {
+  top: 125px;
+  left: 120px;
+  line-height: 130%;
+  font-weight: 500;
+  color: #d23431;
+  width: 84px;
+  height: 15px;
+}
+.appleDiv,
+.designDiv,
+.fullTimeDiv1,
+.uIDesignerB {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.uIDesignerB {
+  top: 76.32px;
+  left: 25.44px;
+  font-size: 16px;
+  color: #3c3a3a;
+  width: 206.91px;
+  height: 24.59px;
+}
+.appleDiv,
+.designDiv {
+  width: 58.51px;
+  height: 16.96px;
+}
+.designDiv {
+  top: 33.07px;
+  left: 61.06px;
+  font-size: 12px;
+  line-height: 130%;
+  font-weight: 500;
+}
+.appleDiv {
+  top: 200.13px;
+  left: 25.44px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.cimobileAltIcon1 {
+  position: absolute;
+  top: 29.01px;
+  left: 27.14px;
+  width: 24.59px;
+  height: 24.59px;
+  overflow: hidden;
+}
+.download11 {
+  position: absolute;
+  top: 184.86px;
+  left: 204.37px;
+  width: 61.9px;
+  height: 46.64px;
+  object-fit: cover;
+}
+.groupDiv23 {
+  position: absolute;
+  top: 217px;
+  left: 17px;
+  width: 277.3px;
+  height: 247.62px;
+}
+.fullTimeDiv2 {
+  top: 124.62px;
+  left: 120px;
+  line-height: 130%;
+  font-weight: 500;
+  color: #d23431;
+  width: 69px;
+  height: 15px;
+}
+.fullTimeDiv2,
+.metaDiv,
+.softwareDevelopmentDiv {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.softwareDevelopmentDiv {
+  top: 34.62px;
+  left: 64px;
+  font-size: 12px;
+  line-height: 130%;
+  font-weight: 500;
+  width: 153px;
+  height: 17px;
+}
+.metaDiv {
+  top: 199.45px;
+  left: 25.44px;
+  font-size: 16px;
+  font-weight: 600;
+  width: 58.51px;
+  height: 16.96px;
+}
+.download1Icon {
+  position: absolute;
+  top: 186.73px;
+  left: 189.1px;
+  width: 75.47px;
+  height: 42.4px;
+  object-fit: cover;
+}
+.akarIconsreactFill {
+  position: absolute;
+  top: 27.98px;
+  left: 25.44px;
+  width: 29.68px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.groupDiv25,
+.jobOffersDiv {
+  position: absolute;
+  top: 789.38px;
+  left: 17px;
+  width: 277.3px;
+  height: 247.62px;
+}
+.jobOffersDiv {
+  top: 2605px;
+  left: 32px;
+  width: 311px;
+  height: 1161.08px;
+  text-align: left;
+  color: #222;
+}
+.tabBgDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0-8px 20px rgba(210, 52, 50, 0.05);
+}
+.rectangleDiv17 {
+  position: absolute;
+  height: 143.18%;
+  width: 157.5%;
+  top: -22.73%;
+  right: -27.5%;
+  bottom: -20.45%;
+  left: -30%;
+  background-color: #f5f5f5;
+  display: none;
+}
+.calendarIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.eventMenuDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.eventMenuDiv > * + * {
+  margin-top: 5px;
+}
+.eventsDiv {
+  position: absolute;
+  height: 47.83%;
+  width: 10.67%;
+  top: 27.17%;
+  right: 8.27%;
+  bottom: 25%;
+  left: 81.07%;
+  color: #d23432;
+}
+.rectangleDiv18 {
+  position: absolute;
+  height: 143.18%;
+  width: 105%;
+  top: -22.73%;
+  right: -1.67%;
+  bottom: -20.45%;
+  left: -3.33%;
+  background-color: #f5f5f5;
+  display: none;
+}
+.challengeDiv {
+  position: absolute;
+  height: 47.83%;
+  width: 16%;
+  top: 27.17%;
+  right: 23.73%;
+  bottom: 25%;
+  left: 60.27%;
+}
+.mobileCreatePost {
+  position: absolute;
+  height: 54.35%;
+  width: 13.33%;
+  top: 23.91%;
+  right: 43.2%;
+  bottom: 21.74%;
+  left: 43.47%;
+  border-radius: 25px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: hidden;
+}
+.rectangleDiv19 {
+  position: absolute;
+  height: 143.18%;
+  width: 143.18%;
+  top: -22.73%;
+  right: -20.45%;
+  bottom: -20.45%;
+  left: -22.73%;
+  background-color: #f5f5f5;
+  display: none;
+}
+.bgDiv,
+.groupIconDiv {
+  position: absolute;
+  height: 47.83%;
+  width: 11.73%;
+  top: 27.17%;
+  right: 62.13%;
+  bottom: 25%;
+  left: 26.13%;
+}
+.bgDiv {
+  height: 143.18%;
+  width: 210%;
+  top: -22.73%;
+  right: -53.33%;
+  bottom: -20.45%;
+  left: -56.67%;
+  background-color: #f5f5f5;
+  display: none;
+}
+.homeIconDiv {
+  position: absolute;
+  height: 47.83%;
+  width: 8%;
+  top: 27.17%;
+  right: 82.13%;
+  bottom: 25%;
+  left: 9.87%;
+}
+.mobileCommunityTabDiv {
+  position: absolute;
+  top: 720px;
+  left: 0;
+  width: 375px;
+  height: 92px;
+  display: none;
+  font-size: 12px;
+  color: #575757;
+}
+.modeSwitchIcon {
+  position: absolute;
+  top: 586px;
+  left: 325px;
+  border-radius: 20px 0 0 20px;
+  width: 50px;
+  height: 80px;
+  overflow: hidden;
+  display: none;
+}
+.rectangleDiv20 {
+  position: absolute;
+  height: 86.96%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 13.04%;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 8px 20px rgba(210, 52, 50, 0.1);
+}
+.path1Icon,
+.path2Icon,
+.path3Icon {
+  position: absolute;
+  height: 7.73%;
+  width: 7.2%;
+  top: 90.61%;
+  right: 68.46%;
+  bottom: 1.66%;
+  left: 24.34%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.path2Icon,
+.path3Icon {
+  right: 27.58%;
+  left: 65.22%;
+}
+.path3Icon {
+  height: 60.01%;
+  width: 81.15%;
+  top: 15.16%;
+  right: 20.4%;
+  bottom: 24.83%;
+  left: -1.55%;
+}
+.div3,
+.ellipseIcon6 {
+  position: absolute;
+  bottom: 43.44%;
+}
+.ellipseIcon6 {
+  height: 53.23%;
+  width: 49.58%;
+  top: 3.33%;
+  right: 0;
+  left: 50.42%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.div3 {
+  height: 56.56%;
+  width: 30.99%;
+  top: 0;
+  right: 6.86%;
+  left: 62.15%;
+  font-weight: 300;
+  display: inline-block;
+}
+.cartBtnDiv,
+.iconFeatherShoppingCartDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.cartBtnDiv {
+  height: 21.78%;
+  width: 8.63%;
+  top: 32.61%;
+  right: 19.45%;
+  bottom: 45.61%;
+  left: 71.93%;
+}
+.rectangleDiv21 {
+  position: absolute;
+  top: 0;
+  left: 374px;
+  background-color: #fff;
+  width: 375px;
+  height: 812px;
+  display: none;
+}
+.menuIcon {
+  position: absolute;
+  top: 48px;
+  left: 331.27px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.logoIcon1 {
+  position: absolute;
+  height: 36.23%;
+  width: 24.31%;
+  top: 25.36%;
+  right: 70.35%;
+  bottom: 38.41%;
+  left: 5.35%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.navbarMobileDiv {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 374px;
+  height: 138px;
+  text-align: left;
+  color: #fff;
+}
+.talentsMobileDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 9702px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 14px;
+  color: #3c3a3a;
+  font-family: Montserrat;
+}
